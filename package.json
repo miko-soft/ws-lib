@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "title": "Websocket Library",
   "description": "A mutual library files for @mikosoft/ws-server and @mikosoft/ws-client-...",
-  "author": "Sasa Mikodanic <smikodanic@gmail.com>",
+  "author": "Mikosoft",
   "homepage": "http://libs.mikosoft.info",
   "license": "MIT",
   "keywords": [
