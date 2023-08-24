@@ -1,5 +1,5 @@
 # ws-lib
-> A mutual library files for @mikosoft/ws-server and @mikosoft/ws-client-browser, @mikosoft/ws-client-nodejs, ...
+> A mutual library files for @mikosoft/ws-server and @mikosoft/ws-client-nodejs .
 
 ## Installation
 ```bash
