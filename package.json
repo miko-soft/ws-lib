@@ -1,6 +1,6 @@
 {
   "name": "@mikosoft/ws-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "Websocket Library",
   "description": "A mutual library files for @mikosoft/ws-server and @mikosoft/ws-client-...",
   "author": "Mikosoft",
